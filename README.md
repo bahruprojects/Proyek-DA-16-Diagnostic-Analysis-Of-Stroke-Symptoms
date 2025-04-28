@@ -2,7 +2,7 @@
 ### Dashboard: 
 [Link](https://lookerstudio.google.com/u/0/reporting/9c6697b6-a6c9-47c3-a51b-1bfb93a5c77e).
 ### Tools: 
-Microsoft Excel (Data Cleaning), Looker Studio (Data Visualizations dan Data Interpretation)
+Microsoft Excel (Data Cleaning), Looker Studio (Data Visualizations dan Data Interpretation).
 ### Dataset:
 [Link](https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset).
 ### Description:
